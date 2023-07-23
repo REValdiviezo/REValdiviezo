@@ -15,7 +15,9 @@ Mi objetivo principal es impactar en el mundo de la programación al punto de ll
 
 🔵¿Qué tecnologías uso?
 
-En la universidad, mis primeros lenguajes fueron C++ y Java, los cuales me forjaron las bases en fundamentos de la programación. El bootcamp de SOY HENRY me ha permitido adquirir a una velocidad increíble el conocimiento y experiencia fundamentales para aplicar a proyectos, donde las principales tecnologías que manejo son:
+En la universidad, mis primeros lenguajes fueron C++ y Java, los cuales me forjaron las bases en fundamentos de la programación.
+
+El bootcamp de SOY HENRY me ha permitido adquirir a una velocidad increíble el conocimiento y experiencia fundamentales para aplicar a proyectos, donde las principales tecnologías que manejo son:
 
 HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | PostgreSQL | Sequelize | GIT | Metodologías ágiles (SCRUM).
 
