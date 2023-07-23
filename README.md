@@ -24,5 +24,7 @@ HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | PostgreSQL |
 Si deseas saber más sobre mí, no dudes en contactarme!.🙋🏽‍♂️
 
 Linkedin: www.linkedin.com/in/ezequiel-valdiviezo-987582247
+
 📩Correo: ezequielrvaldiviezo@gmail.com📫
+
 📩Correo: eze_valdiviezo@yahoo.com📫
