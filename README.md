@@ -3,15 +3,15 @@
 
 🔵¿Quién soy?
 
-Soy un programador web Fullstack apasionado por la tecnología. Cuando conocí el mundo de la programación, me emocioné por aprender cada vez más. Entonces decidí entrar a la universidad y en ese proceso fue cuando descubrí el bootcamp de SOY HENRY, lugar donde me siento muy feliz de estar estudiando.
+Soy un apasionado desarrollador web Front End con experiencia en tecnologías como HTML, CSS, Tailwind CSS, JavaScript, Typescript, React, Node.js, Express, PostgreSQL, GIT. Mi objetivo es llevar la experiencia del usuario a otro nivel, creando aplicaciones web dinámicas y funcionales. Soy una persona proactiva y altamente trabajadora, siempre dispuesto a enfrentar nuevos desafíos y aprender constantemente. Ser autodidacta es una de mis mejores cualidades, la cual me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y adoptar las mejores prácticas de desarrollo.
 
-🔵¿Qué hago?
+🔵¿Por Que yo?
 
-Actualmente, me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código.
+En mí encontrarás, además de habilidades técnicas, una gran capacidad de liderazgo, trabajo en equipo, iniciativa y creatividad. Mi objetivo es trabajar en una empresa que me brinde la oportunidad de ganar experiencia y seguir creciendo profesionalmente. Estoy emocionado por formar parte de un equipo dinámico y contribuir para crear soluciones innovadoras.
 
-🔵¿A dónde me dirijo?
+🔵Experiencia:
 
-Mi objetivo principal es impactar en el mundo de la programación al punto de llegar a descubrir cosas nuevas. No solo disfruto de la programación, sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
+Durante el año 2023, estudié en el Bootcamp de SOY HENRY y me gradué como Full Stack Developer, adquiriendo amplios conocimientos y práctica. Además, soy estudiante de la carrera de Analista Programador Universitario (APU) en la Universidad Nacional de Jujuy (UNJu), la cual me proporcionó sólidas bases en los fundamentos de la programación. Al desempeñarme como delegado de mis compañeros, mejoré mis habilidades de comunicación y liderazgo, indispensables para el trabajo en equipo.
 
 🔵¿Qué tecnologías uso?
 
@@ -19,12 +19,10 @@ En la universidad, mis primeros lenguajes fueron C++ y Java, los cuales me forja
 
 El bootcamp de SOY HENRY me ha permitido adquirir a una velocidad increíble el conocimiento y experiencia fundamentales para aplicar a proyectos, donde las principales tecnologías que manejo son:
 
-HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | PostgreSQL | Sequelize | GIT | Metodologías ágiles (SCRUM).
+HTML | CSS | JavaScript | Typescript | React.js | TailwindCSS | Node.js | Express.js | PostgreSQL | GIT | Metodologías ágiles (SCRUM).
 
 Si deseas saber más sobre mí, no dudes en contactarme!.🙋🏽‍♂️
 
 Linkedin: www.linkedin.com/in/ezequiel-valdiviezo-987582247
 
 📩Correo: ezequielrvaldiviezo@gmail.com📫
-
-📩Correo: eze_valdiviezo@yahoo.com📫
